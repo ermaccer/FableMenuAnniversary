@@ -25,7 +25,7 @@ Archive breakdown:
 
  - dinput8.dll - [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/)
  - FableMenuAnniversary.asi 
- - FableMenu.ini - configuration file
+ - FableMenuAnniversary.ini - configuration file
 
 
 # Usage
