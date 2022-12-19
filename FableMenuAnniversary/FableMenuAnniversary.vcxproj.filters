@@ -129,6 +129,9 @@
     <ClInclude Include="resource.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="fable\QuestManager.h">
+      <Filter>Header Files\fable</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp">
@@ -208,6 +211,9 @@
     </ClCompile>
     <ClCompile Include="..\..\Menu\FableMenu\eNotifManager.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fable\QuestManager.cpp">
+      <Filter>Header Files\fable</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

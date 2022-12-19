@@ -6,3 +6,4 @@
 #include "fable/Player.h"
 #include "fable/Pointer.h"
 #include "fable/GameCamera.h"
+#include "fable/QuestManager.h"

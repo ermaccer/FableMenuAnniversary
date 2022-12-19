@@ -34,6 +34,8 @@ void Init()
 
     eDirectX9Hook::Init();
     InjectHook(_addr(0x1C83C48), &CGameCameraManager::Update);
+
+    InjectHook(_addr(0x1FAAD1F), CMessageEventUpdater_Update_Hook);
   
     eDirectX9Hook::RegisterHook(_addr(0x15E5902), _addr(0x15E5908), Method_EndScene);
     eDirectX9Hook::RegisterHook(_addr(0x15D3B6C), _addr(0x15D3B77), Method_Reset);

@@ -168,6 +168,7 @@
     <ClInclude Include="fable\Player.h" />
     <ClInclude Include="fable\PlayerManager.h" />
     <ClInclude Include="fable\Pointer.h" />
+    <ClInclude Include="fable\QuestManager.h" />
     <ClInclude Include="fable\Thing.h" />
     <ClInclude Include="fable\World.h" />
     <ClInclude Include="framework.h" />
@@ -201,6 +202,7 @@
     <ClCompile Include="fable\Player.cpp" />
     <ClCompile Include="fable\PlayerManager.cpp" />
     <ClCompile Include="fable\Pointer.cpp" />
+    <ClCompile Include="fable\QuestManager.cpp" />
     <ClCompile Include="fable\Thing.cpp" />
     <ClCompile Include="helper\eKeyboardMan.cpp" />
     <ClCompile Include="helper\eMouse.cpp" />
